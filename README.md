@@ -8,6 +8,7 @@ Lead Instructor: Jaime Canizales
 
 Email: jaime.canizales@hunter.cuny.edu 
 
+* [zoom link](https://us02web.zoom.us/j/83114876026?pwd=cnhhN2o2S25CKzFUeWtUYWE1NUY5QT09)
 
 Discord Server:  https://discord.gg/PKxpuPS6
 
@@ -58,7 +59,7 @@ that far. Whether it runs or not, just submit what you have.
 * Topics of the day: Introduction, Maps
 * Course logistics: * Interview prep slides: [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 * Problems covered: [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)
-* Recordings:
+* Recordings: https://youtu.be/biChzycEpPA
 
 *Homework: Leetcode [Valid Anagrams](https://leetcode.com/problems/valid-anagram/), Please join discord server, and add your newly forked github link to the spreadsheet(both links are available above)*
 
@@ -66,13 +67,31 @@ that far. Whether it runs or not, just submit what you have.
 01/03 (Wed):
 * Topics of the day: Big O, Maps
 * Problems covered: [Two Sum](https://leetcode.com/problems/two-sum/)
-* Recordings:
+* Additional readings: [Hash Table Reading](https://leetcode.com/explore/learn/card/hash-table/)
+* Recordings: https://youtu.be/-q2l7qY0Qo0, https://youtu.be/h7OtJkKBq40
 
-*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/)*
+*Homework: Leetcode [Group Anagrams](https://leetcode.com/problems/group-anagrams/), read additional readings on hash tables, please complete preassessment test if you have not done so [preassessment](https://hr.gs/hunterjan24technical)*
+
 
 01/04 (Thurs):
 * Topics of the day: Maps, Two Pointers
-* Problems covered: [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/), [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-* Recordings:
+* Problems covered: [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+* Recordings: https://youtu.be/7vnX1Ztn6Xw
 
-*Homework: Leetcode [Three Sum](https://leetcode.com/problems/3sum/)*
+*Homework: Leetcode [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)*
+
+
+01/05 (Fri):
+* Topics of the day: Two Pointers
+* Problems covered: [Water Container](https://leetcode.com/problems/container-with-most-water/) 
+* Recordings https://youtu.be/V0DMi_ErcEs:
+
+*Homework: Leetcode [Three Sum](https://leetcode.com/problems/3sum/), [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)*
+
+
+01/08 (Mon):
+* Topics of the day: Sliding Window
+* Problems covered: [longest substring witout repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/), [longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+* Recordings: 
+
+*Homework: Leetcode *
