@@ -98,9 +98,64 @@ that far. Whether it runs or not, just submit what you have.
 
 01/09 (Tues)(week2-day2):
 * Topics of the day: Linked Lists
-* Problems covered: [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/), [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+* Problems covered: [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+* Recordings: https://youtu.be/hF3JuHQxPZU
+
+*Homework: Leetcode [remove nth node from end](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)*
+
+01/10 (Wed)(week2-day3):
+* Topics of the day: Linked Lists, Binary Search, Stacks, Trees
+* Problems covered: [Binary Search](https://leetcode.com/problems/binary-search/),[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/), [Stack](https://leetcode.com/problems/valid-parentheses/)
+* Recordings: https://youtu.be/4vphNX0hOgg
+
+*Homework: Leetcode [maximum depth of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) Hint-Stack*
+
+01/11 (Thurs)(week2-day4):
+* Topics of the day: Trees, Binary Search Trees
+* Problems covered: [binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/),[validate BST](https://leetcode.com/problems/validate-binary-search-tree/description/)
+* Recordings: https://youtu.be/3F58OjAEGT0
+
+*Homework: Leetcode [kth smallest element bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)*
+
+01/12 (Fri)(week2-day5):
+* Topics of the day: BST, Tries
+* Problems covered: [implement trie](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+* Recordings: https://youtu.be/QAMyFvpRk7E
+
+
+*Homework: [add and search tries](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/), [Kth largest element in array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)*
+
+
+01/16 (Tues)(week3-day1):
+* Topics of the day: Heaps
+* Problems covered: [last stone weight](https://leetcode.com/problems/last-stone-weight/), [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+* Recordings: https://youtu.be/HiWX80SohWw
+
+*Homework: [all subsets](https://leetcode.com/problems/subsets/description/)*
+
+
+01/17 (Wed)(week3-day2):
+* Topics of the day: Backtracking
+* Problems covered: [all subsets 2](https://leetcode.com/problems/subsets-ii/description/), [letter combinations of phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+* Recordings: https://youtu.be/Ebraz3URP1o
+
+*Homework: [# of islands](https://leetcode.com/problems/number-of-islands/description/)*
+
+01/18 (Thurs)(week3-day3):
+* Topics of the day: Graphs
+* Problems covered: [clone graph](https://leetcode.com/problems/clone-graph/description/), [course schedule](https://leetcode.com/problems/course-schedule/description/)
+* Recordings: https://youtu.be/oZicWfkHG_I
+
+*Homework: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)*
+
+01/19 (Fri)(week3-day4):
+* Topics of the day: Dynamic Programming
+* Problems covered: [house robber](https://leetcode.com/problems/house-robber/description/)
+* Recordings: https://youtu.be/Epd6chI5GtY
+
+*Homework: [coin change](https://leetcode.com/problems/coin-change/description/)*
+
+01/22 (Mon)(week3-day5):
+* Topics of the day: 
+* Problems covered: 
 * Recordings: 
-
-*Homework: Leetcode *
-
-
